@@ -1,0 +1,3 @@
+Jakub Postek - czêœæ po stronie serwera i bazy danych - ca³y kod PHP, ³¹czenie z baz¹ danych, tworzenie sesji, logowanie oraz rejestracja u¿ytkowników, czêœæ CSS
+S³awomir Pasiowiec - funkcjonalnoœæ strony - projekt ankiety oraz newsów, wymyœlanie pytañ i odpowiedzi, czêœæ CSS
+Grzegorz Borkowski - czêœæ po stronie klienta - szablon strony oraz CSS, walidacja CSS+HTML+JS, ca³y JS, odœwie¿anie newsów
